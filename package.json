@@ -1,11 +1,11 @@
 {
   "name": "graphql-rabbitmq-subscriptions",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A graphql-subscriptions PubSub Engine using RabbitMQ",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdmbase/graphql-rabbitmq-subscriptions.git"
+    "url": "https://github.com/djpease/graphql-rabbitmq-subscriptions.git"
   },
   "keywords": [
     "graphql",
@@ -16,9 +16,9 @@
   "author": "CDMBase",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdmbase/graphql-rabbitmq-subscriptions/issues"
+    "url": "https://github.com/djpease/graphql-rabbitmq-subscriptions/issues"
   },
-  "homepage": "https://github.com/cdmbase/graphql-rabbitmq-subscriptions",
+  "homepage": "https://github.com/djpease/graphql-rabbitmq-subscriptions",
   "scripts": {
     "compile": "tsc",
     "pretest": "npm run compile",
